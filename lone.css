@@ -1,0 +1,90 @@
+p{
+   background-image: url(assets//images/images.jpg);
+   background-repeat: no-repeat;
+   background-position: top;
+   background-attachment: relative;
+   background-size: cover;
+   color: gray
+}
+h1{
+   background: blue;
+}
+ul{
+   background: orange;
+   /* padding-top: 50px;
+   padding-right: 50px;
+   padding-bottom: 50px;
+   padding-left: 50px; */
+
+   /* padding: 20px 40px 30px 70px; */
+
+   /* margin-top: 50px;
+   margin-right: 50px;
+   margin-bottom: 80px;
+   margin-left: 90px; */
+
+   /* margin: 50px 50px 80px 90px; */
+
+   /* border-width: 50px;
+   border-style: ridge;
+   border-color: red; */
+
+   /* border: 20px ridge red; */
+   
+   /* border-top: 20px ridge red;
+   border-right: 20px ridge green;
+   border-bottom: 20px ridge blue;
+   border-left: 20px ridge purple; */
+
+
+   /* box-shadow: inset 10px 10px 20px black;
+
+   border-radius: 0 50% / 0px 100%; */
+
+  list-style-type: none;
+  padding: 10px 10px 10px 0px;
+
+}
+/* table{
+   width: 100%;
+   border: 10px groove gold;
+   border-collapse: no-collapse;
+   border-spacing: 10px;
+   background-image: url(assets/ether.png);
+}
+tr{
+}
+td{
+   border: 3px solid black;
+   padding: 10px;
+   background: gold; 
+}*/
+li{
+   background: red;
+   margin: 10px 0px
+}
+a:link{
+   text-decoration: none;
+   background: red;
+   padding: 10px;
+   border-radius: 10px;
+}
+a:hover{
+   background: blue;
+   color: white
+}
+a:active{
+   background: gold;
+   color: red;
+}
+a:visited{
+   background: black;
+   color: white
+}
+
+
+
+button{
+   border: none;
+   background: burlywood;
+}
